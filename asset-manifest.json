@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/bitcoin/static/css/main.f80b2536.chunk.css",
+    "main.js": "/bitcoin/static/js/main.0e0fa8ba.chunk.js",
+    "main.js.map": "/bitcoin/static/js/main.0e0fa8ba.chunk.js.map",
+    "runtime-main.js": "/bitcoin/static/js/runtime-main.ffab52a1.js",
+    "runtime-main.js.map": "/bitcoin/static/js/runtime-main.ffab52a1.js.map",
+    "static/js/2.73e83acb.chunk.js": "/bitcoin/static/js/2.73e83acb.chunk.js",
+    "static/js/2.73e83acb.chunk.js.map": "/bitcoin/static/js/2.73e83acb.chunk.js.map",
+    "index.html": "/bitcoin/index.html",
+    "precache-manifest.19072ab85ade1d0fbce24aa86b3f93ec.js": "/bitcoin/precache-manifest.19072ab85ade1d0fbce24aa86b3f93ec.js",
+    "service-worker.js": "/bitcoin/service-worker.js",
+    "static/css/main.f80b2536.chunk.css.map": "/bitcoin/static/css/main.f80b2536.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffab52a1.js",
+    "static/js/2.73e83acb.chunk.js",
+    "static/css/main.f80b2536.chunk.css",
+    "static/js/main.0e0fa8ba.chunk.js"
+  ]
+}
