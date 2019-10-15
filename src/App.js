@@ -7,7 +7,7 @@ class App extends React.Component {
 	render() {
 		return (
 			<div className="App">
-				<Data legendPosition="bottom" />
+				<Data legendDisplay="false" />
 			</div>
 		);
 	}

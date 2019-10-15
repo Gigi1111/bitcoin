@@ -1,6 +1,6 @@
 import React from 'react';
 import { Line } from 'react-chartjs-2';
-
+import './data.css';
 class Data extends React.Component {
 	constructor(props) {
 		super(props);
@@ -143,8 +143,7 @@ class Data extends React.Component {
 							}
 						},
 						legend: {
-							display: this.props.displayLegend,
-							position: this.props.legendPosition
+							display: false
 						}
 					}}
 				/>
